@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charviis
 - 👀 I’m interested in C, PhP, HTML, JS, 
-- 🌱 I’m currently learning C, HTML
+- 🌱 I’m currently learning C, HTML, J
 
 <!---
 charviis/charviis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
