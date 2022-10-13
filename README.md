@@ -1,7 +1,7 @@
-<h1 align="center"> 
+<h1 align="center"> </h1>
 - 👋 Hi, I’m @charviis
 - 🌱 I’m currently focusing mainly in JS, J, PHP
-</h2>
+
 <h2 align="center">Contact Me 🤝</h2>
 
 <p align="center">
