@@ -1,6 +1,6 @@
 <h1 align="center"> </h1>
-- 👋 Hi, I’m @charviis
-- 🌱 I’m currently focusing mainly in JS, J, PHP
+👋 Hi, I’m @charviis
+🌱 I’m currently focusing mainly in JS, J, PHP
 
 <h2 align="center">Contacts</h2>
 
