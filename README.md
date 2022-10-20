@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I’m @charviis</h1>
-<h2 align="center"> I’m currently focusing mainly in JS, J, PHP </h2>
+<h2 align="center"> I’m currently focusing mainly on JS, J, PHP </h2>
 
 
 <h3 align="center">Contacts</h3>
