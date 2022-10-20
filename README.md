@@ -1,5 +1,5 @@
-<h1 align="center"> </h1>
- Hi, I’m @charviis, and I’m currently focusing mainly in JS, J, PHP
+<h1 align="center"> Hi, I’m @charviis, and I’m currently focusing mainly in JS, J, PHP </h1>
+
 
 <h2 align="center">Contacts</h2>
 
