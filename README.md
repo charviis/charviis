@@ -1,7 +1,8 @@
-<h1 align="center"> Hi, I’m @charviis, and I’m currently focusing mainly in JS, J, PHP </h1>
+<h1 align="center"> Hi, I’m @charviis</h1>
+<h2 align="center"> I’m currently focusing mainly in JS, J, PHP </h2>
 
 
-<h2 align="center">Contacts</h2>
+<h3 align="center">Contacts</h3>
 
 <p align="center">
   <a href="https://discordapp.com/users/829337574849904721">
