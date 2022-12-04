@@ -11,7 +11,7 @@
   <a href="https://twitter.com/charviis">
     <img alt="Twitter" width="40px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
   </a>
-  <h3 align="center">Support<3</h3>
+  <h3 align="center">Support</h3>
   <p align="center"
 
   
