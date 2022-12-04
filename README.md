@@ -12,7 +12,7 @@
     <img alt="Twitter" width="40px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
   </a>
   <a href="https://storage.ko-fi.com/cdn/kofi2.png?v=3)">
-    <img alt="Buy Me a Coffee at ko-fi.com" width="40px" src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" />
+    <img alt="https://ko-fi.com/charviiis" width="80px" src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" />
   </a>
 </p>
 
