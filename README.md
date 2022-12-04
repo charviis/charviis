@@ -11,11 +11,9 @@
   <a href="https://twitter.com/charviis">
     <img alt="Twitter" width="40px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
   </a>
-  <a href="https://github.com/sponsors/charviis/button">
-    <img alt="Sponsor" width="40px" src="https://github.com/sponsors/charviis/button" />
+  <a href="https://storage.ko-fi.com/cdn/kofi2.png?v=3)">
+    <img alt="Buy Me a Coffee at ko-fi.com" width="40px" src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" />
   </a>
- <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
-  <script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'R6R8GTGRO');kofiwidget2.draw();</script> 
 </p>
 
 <!---
