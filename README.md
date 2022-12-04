@@ -11,8 +11,8 @@
   <a href="https://twitter.com/charviis">
     <img alt="Twitter" width="40px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
   </a>
-  <a href="https://storage.ko-fi.com/cdn/kofi2.png?v=3)">
-    <img alt="https://ko-fi.com/charviiis" width="160px" src="https://ko-fi.com/charviiis" />
+  <a href="https://ko-fi.com/charviiis">
+    <img alt="https://ko-fi.com/charviiis" width="160px" src="https://storage.ko-fi.com/cdn/kofi2.png?v=3)" />
   </a>
 </p>
 
