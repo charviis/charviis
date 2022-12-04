@@ -14,6 +14,8 @@
   <a href="https://github.com/sponsors/charviis/button">
     <img alt="Sponsor" width="40px" src="https://github.com/sponsors/charviis/button" />
   </a>
+ <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
+  <script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'R6R8GTGRO');kofiwidget2.draw();</script> 
 </p>
 
 <!---
