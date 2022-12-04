@@ -14,11 +14,12 @@
   
   <h3 align="center">Support<3</h3>
   
-    <p align="center">
+    
   <a href="https://ko-fi.com/charviiis">
-    <img alt="https://ko-fi.com/charviiis" width="160px" src="https://storage.ko-fi.com/cdn/kofi2.png?v=3)" />
-  </a>
-    </p>
+    <img alt="https://ko-fi.com/charviiis" width="160px" src="https://storage.ko-fi.com/cdn/kofi2.png?v=3)" 
+         </a>
+
+    
 </p>
 
 <!---
