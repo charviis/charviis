@@ -11,6 +11,9 @@
   <a href="https://twitter.com/charviis">
     <img alt="Twitter" width="40px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
   </a>
+  <a href="https://github.com/sponsors/charviis/button">
+    <img alt="Sponsor" width="40px" src="https://github.com/sponsors/charviis/button" />
+  </a>
 </p>
 
 <!---
