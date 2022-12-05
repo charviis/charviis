@@ -17,7 +17,7 @@
   
  
   <a href="https://ko-fi.com/charviiis">
-    <img alt="https://ko-fi.com/charviiis" width="160px" src="https://storage.ko-fi.com/cdn/kofi2.png?v=3)" 
+    <img alt="https://ko-fi.com/charviiis" width="160px" src="[https://storage.ko-fi.com/cdn/kofi2.png?v=3)](https://ko-fi.com/charviiis)" 
          </a>
 </p>
     
