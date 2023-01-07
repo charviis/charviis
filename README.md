@@ -2,7 +2,7 @@
 <h2 align="center"> I’m focusing mainly on JS, J, and Python </h2>
 
 
-<h3>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charviis)](https://github.com/anuraghazra/github-readme-stats)</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charviis)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">Contacts</h3>
 
