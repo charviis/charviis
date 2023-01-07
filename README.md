@@ -1,6 +1,8 @@
 <h1 align="center"> Hi, I’m @charviis</h1>
 <h2 align="center"> I’m focusing mainly on JS, J, and Python </h2>
 
+-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <h3 align="center">Contacts</h3>
 
