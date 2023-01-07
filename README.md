@@ -1,9 +1,9 @@
 <h1 align="center"> Hi, I’m @charviis</h1>
 <h2 align="center"> I’m focusing mainly on JS, J, and Python </h2>
 
-
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charviis&show_icons=true&theme=github_dark)
-
+</div>
 <h3 align="center">Contacts</h3>
 
 <p align="center">
