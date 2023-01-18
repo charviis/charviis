@@ -3,7 +3,7 @@
 
 <div align="center">
 <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=charviis&count_private=true&show_icons=true&theme=dracula">
-    <img align="center" width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charviis&show_icons=true&theme=dracula"> 
+     
 </div>
 
 <h3 align="center">Contacts</h3>
