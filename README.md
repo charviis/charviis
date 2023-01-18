@@ -1,9 +1,9 @@
 <h1 align="center"> Hi, I’m @charviis</h1>
 <h2 align="center"> I’m focusing mainly on JS, J, and Python </h2>
 
-<div align="center">
-<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=charviis&count_private=true&show_icons=true&theme=dracula">
-     
+<div style={{ display: 'flex' }}>
+  <img src="https://github-readme-stats.vercel.app/api?username=cahrviis&theme=github_dark&show_icons=true" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charviis&layout=compact&theme=github_dark&langs_count=8" height="185" />
 </div>
 
 <h3 align="center">Contacts</h3>
