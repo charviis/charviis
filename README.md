@@ -2,7 +2,7 @@
 <h2 align="center"> I’m focusing mainly on JS, J, and Python </h2>
 
 <div style={{ display: 'flex' }}>
-  <img src="https://github-readme-stats.vercel.app/api?username=cahrviis&theme=github_dark&show_icons=true" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api?username=charviis&theme=github_dark&show_icons=true" height="185" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charviis&layout=compact&theme=github_dark&langs_count=8" height="185" />
 </div>
 
