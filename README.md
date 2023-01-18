@@ -11,6 +11,9 @@
   <a href="https://discordapp.com/users/829337574849904721">
     <img alt="Discord" width="40px" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-256.png" />
   </a>
+  ### <img alt="emoji" src="https://octicons.charviis.ch/code-review/c9d1d9" height="25em"> Most used languages
+<img src="https://github.com/charviis/charviis/blob/master/.cache/stats-languages.svg">
+
   <a href="https://twitter.com/charviis">
     <img alt="Twitter" width="40px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
   </a>
