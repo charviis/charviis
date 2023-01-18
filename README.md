@@ -2,7 +2,8 @@
 <h2 align="center"> I’m focusing mainly on JS, J, and Python </h2>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=charviis&show_icons=true&hide_border=true&count_private=true&theme=github_dark" />
+<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=charviis&count_private=true&show_icons=true&theme=dracula">
+    <img align="center" width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charviis&show_icons=true&theme=dracula"> 
 </div>
 
 <h3 align="center">Contacts</h3>
@@ -10,8 +11,7 @@
 <p align="center">
   <a href="https://discordapp.com/users/829337574849904721">
     <img alt="Discord" width="40px" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-256.png" />
-    <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=charviis&count_private=true&show_icons=true&theme=dracula">
-    <img align="left" width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charviis&show_icons=true&theme=dracula"> 
+    
   </a>
  
   <a href="https://twitter.com/charviis">
