@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I’m @charviis</h1>
-<h2 align="center"> I’m focusing mainly on JS, J, and Python </h2>
+<h2 align="center"> I’m focusing mainly on JS, J, and Python, currently working on a few private projects, including fiveM servers and some websites </h2>
 
 <div style={{ display: 'flex' }}>
   <img src="https://github-readme-stats.vercel.app/api?username=charviis&theme=github_dark&show_icons=true" height="185" />
